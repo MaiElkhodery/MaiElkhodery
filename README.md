@@ -12,11 +12,14 @@
   <a href="https://www.linkedin.com/in/mai-elkhodery">
     <img src="https://img.shields.io/badge/LinkedIn-0071B5?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+    <a href="https://www.facebook.com/mai.elkhodery.3">
+    <img src="https://img.shields.io/badge/Facebook-0071B5?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <hr/>
 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h2 align="center"> Languages and Tools </h2>
 <br/>
 <div align="center">
 
