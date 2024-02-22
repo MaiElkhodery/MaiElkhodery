@@ -1,2 +1,2 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MaiElkhodery.MaiElkhodery"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MaiElkhodery.visitor-badge"/>
 
