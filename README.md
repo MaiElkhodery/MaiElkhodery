@@ -20,9 +20,11 @@
 <hr/>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
 
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,kotlin,,html,css,firebase,sqllite,androidstudio,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,java,kotlin,ktor,firebase,androidstudio" /><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,firebase,sql,mongodb" />
   </a>
-</p>
+</div>
