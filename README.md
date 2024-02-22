@@ -14,7 +14,7 @@
   </a>
   
   <a href="https://www.facebook.com/mai.elkhodery.3">
-   <img src="https://skillicons.dev/icons?i=facebook" />
+   <img src="https://skillicons.dev/icons?i=messenger" />
   </a>
   
 </div>
@@ -27,6 +27,6 @@
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,kotlin,ktor,firebase,androidstudio" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,firebase,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,firebase,sqlite,mongodb" />
   </a>
 </div>
