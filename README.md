@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MaiElkhodery.visitor-badge)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Mai+Elkhodery&height=50)](https://git.io/typing-svg)
 
