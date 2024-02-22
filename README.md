@@ -1,15 +1,12 @@
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MaiElkhodery.visitor-badge"/>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=25&pause=1000&color=8EF7F0&center=true&random=false&width=435&height=55&lines=Hi There,+I'm+Mai+Elkhodery" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A Computer Science Studnet in final year</h3>
+<h3 align="center"> a final-year computer science student passionate about software development </h3>
 <br/>
 
 <div align="center">
-  <a href="maielkhodery101@gmail.com">
+  <a href="https://mail.google.com/mail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mai-elkhodery">
@@ -25,6 +22,6 @@
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,kotlin,ktor,firebase,androidstudio" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,firebase,sql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,firebase,mysql,mongodb" />
   </a>
 </div>
