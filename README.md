@@ -6,22 +6,22 @@
 
 <br/>
 
-<h2 align="center">📞 Connect with me:</h2> <br/>
+<h2 align="center">Connect with me:</h2> <br/>
 <div align="center">
 
   <a href="https://www.linkedin.com/in/mai-elkhodery">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <a href="https://www.facebook.com/mai.elkhodery.3">
-   <img src="https://skillicons.dev/icons?i=facebook" />
+  <a href="mailto:maielkhodery101@gmail.com">
+   <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   
 </div>
 
 <hr/>
 
-<h2 align="center">📌 Languages and Tools </h2>
+<h2 align="center">📌 Languages and Tools:</h2>
 <br/>
 <div align="center">
 
