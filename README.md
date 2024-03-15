@@ -27,6 +27,6 @@
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,kotlin,ktor,firebase,androidstudio" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,firebase,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,sqlite,mongodb" />
   </a>
 </div>
